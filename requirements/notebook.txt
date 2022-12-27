@@ -1,2 +1,2 @@
-jupyterlab==3.4.8
+jupyterlab==3.5.2
 whisper @ git+https://github.com/openai/whisper.git@0b5dcfdef7ec04250b76e13f1630e32b0935ce76
